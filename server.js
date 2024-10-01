@@ -10,7 +10,7 @@ app.use(express.json());  // Enables the server to send and receive JSON data
 
 
 // Listen for GET requests to get all categories
-app.get("/api/categories", function (request, response) {
+app.get("/api/categories", function (_request, response) {
     console.log("Received a GET request for categories");
 
     let json = fs.readFileSync(`${__dirname}/data/categories.json`, "utf8");
@@ -20,6 +20,22 @@ app.get("/api/categories", function (request, response) {
     console.log(allCategories);
     
     response.status(200).json(allCategories);
+});
+
+// Listen for GET requests to get a specific category
+app.get("/api/categories/:categoryId", function (request, response) {
+    let categoryId = request.params.categoryId;
+    console.log("Received a GET request for category " + categoryId);
+
+    let json = fs.readFileSync(`${__dirname}/data/categories.json`, "utf8");
+    let allCategories = JSON.parse(json);
+    
+    let matchingCategory = allCategories.find(cat => cat.categoryId === categoryId);
+    
+    console.log("Returning: ");
+    console.log(matchingCategory);
+    
+    response.status(200).json(matchingCategory);
 });
 
 
@@ -43,13 +59,22 @@ app.get("/api/products/bycategory/:categoryId", function (request, response) {
 // Listen for GET requests to get all products
 app.get("/api/products", function (request, response) {
     console.log("Received a GET request for products");
-
+    
     let json = fs.readFileSync(`${__dirname}/data/our_products.json`, "utf8");
     let allProducts = JSON.parse(json);
+
+    
+    let categoryId = request.query.category;
+    if (categoryId) {
+        let results = allProducts.filter(p => p.categoryId === categoryId);
+        console.log("Returning: ");
+        console.log(results);
+        response.status(200).json(results);
+        return;
+    }
     
     console.log("Returning: ");
     console.log(allProducts);
-    
     response.status(200).json(allProducts);
 });
 
@@ -72,5 +97,5 @@ app.get("/api/products/:productId", function (request, response) {
 
 
 let server = app.listen(8081, function () {
-    console.log(`App listening at port ${server.address().port}`)
+    console.log(`App listening at port ${server.address().port}`);
 });

@@ -1,41 +1,41 @@
 [
 	{
-		"categoryId" : 1,
+		"categoryId" : "1",
 		"description" : "Soft drinks coffees teas beers and ales",
 		"name" : "Beverages"
 	},
 	{
-		"categoryId" : 2,
+		"categoryId" : "2",
 		"description" : "Sweet and savory sauces relishes spreads and seasonings",
 		"name" : "Condiments"
 	},	
 	{
-		"categoryId" : 3,
+		"categoryId" : "3",
 		"description" : "Desserts candies and sweet breads",
 		"name" : "Confections"
 	},
 	{
-		"categoryId" : 4,
+		"categoryId" : "4",
 		"description" : "Cheeses",
 		"name" : "Dairy Products"
 	},
 	{
-		"categoryId" : 5,
+		"categoryId" : "5",
 		"description" : "Breads crackers pasta and cereal",
 		"name" : "Grains/Cereals"
 	},
 	{
-		"categoryId" : 6,
+		"categoryId" : "6",
 		"description" : "Prepared meats",
 		"name" : "Meat/Poultry"
 	},
 	{
-		"categoryId" : 7,
+		"categoryId" : "7",
 		"description" : "Dried fruit and bean curd",
 		"name" : "Produce"
 	},
 	{
-		"categoryId" : 8,
+		"categoryId" : "8",
 		"description" : "Seaweed and fish",
 		"name" : "Seafood"
 	}
