@@ -2,476 +2,476 @@
     {
         "productId": "1",
         "productName": "Chai",
-        "unitPrice": "18.0000",
-        "unitsInStock": "39",
-        "categoryId": 1,
+        "unitPrice": 18.0000,
+        "unitsInStock": 39,
+        "categoryId": "1",
         "supplier": "Exotic Liquids",
         "discontinued": "false"
      },
      {
         "productId": "2",
         "productName": "Chang",
-        "unitPrice": "19.0000",
-        "unitsInStock": "17",
-        "categoryId": 1,
+        "unitPrice": 19.0000,
+        "unitsInStock": 17,
+        "categoryId": "1",
         "supplier": "Exotic Liquids",
         "discontinued": "false"
      },
      {
         "productId": "3",
         "productName": "Aniseed Syrup",
-        "unitPrice": "10.0000",
-        "unitsInStock": "13",
-        "categoryId": 2,
+        "unitPrice": 10.0000,
+        "unitsInStock": 13,
+        "categoryId": "2",
         "supplier": "Exotic Liquids",
         "discontinued": "false"
      },
      {
         "productId": "4",
         "productName": "Chef Anton's Cajun Seasoning",
-        "unitPrice": "22.0000",
-        "unitsInStock": "53",
-        "categoryId": 2,
+        "unitPrice": 22.0000,
+        "unitsInStock": 53,
+        "categoryId": "2",
         "supplier": "New Orleans Cajun Delights",
         "discontinued": "false"
      },
      {
         "productId": "5",
         "productName": "Chef Anton's Gumbo Mix",
-        "unitPrice": "22.3500",
-        "unitsInStock": "0",
-        "categoryId": 2,
+        "unitPrice": 22.3500,
+        "unitsInStock": 0,
+        "categoryId": "2",
         "supplier": "New Orleans Cajun Delights",
         "discontinued": "true"
      },
      {
         "productId": "6",
         "productName": "Grandma's Boysenberry Spread",
-        "unitPrice": "25.0000",
-        "unitsInStock": "120",
-        "categoryId": 2,
+        "unitPrice": 25.0000,
+        "unitsInStock": 120,
+        "categoryId": "2",
         "supplier": "Grandma Kelly's Homestead",
         "discontinued": "false"
      },
      {
         "productId": "7",
         "productName": "Uncle Bob's Organic Dried Pears",
-        "unitPrice": "30.0000",
-        "unitsInStock": "15",
-         "categoryId": 7,
+        "unitPrice": 30.0000,
+        "unitsInStock": 15,
+         "categoryId": "7",
         "supplier": "Grandma Kelly's Homestead",
         "discontinued": "false"
      },
      {
         "productId": "8",
         "productName": "Northwoods Cranberry Sauce",
-        "unitPrice": "40.0000",
-        "unitsInStock": "6",
-        "categoryId": 2,
+        "unitPrice": 40.0000,
+        "unitsInStock": 6,
+        "categoryId": "2",
         "supplier": "Grandma Kelly's Homestead",
         "discontinued": "false"
      },
      {
         "productId": "9",
         "productName": "Mishi Kobe Niku",
-        "unitPrice": "97.0000",
-        "unitsInStock": "29",
-        "categoryId": 6,
+        "unitPrice": 97.0000,
+        "unitsInStock": 29,
+        "categoryId": "6",
         "supplier": "Tokyo Traders",
         "discontinued": "true"
      },
      {
         "productId": "10",
         "productName": "Ikura",
-        "unitPrice": "31.0000",
-        "unitsInStock": "31",
-        "categoryId": 8,
+        "unitPrice": 31.0000,
+        "unitsInStock": 31,
+        "categoryId": "8",
         "supplier": "Tokyo Traders",
         "discontinued": "false"
      },
      {
         "productId": "11",
         "productName": "Queso Cabrales",
-        "unitPrice": "21.0000",
-        "unitsInStock": "22",
-        "categoryId": 4,
+        "unitPrice": 21.0000,
+        "unitsInStock": 22,
+        "categoryId": "4",
         "supplier": "Cooperativa de Quesos 'Las Cabras'",
         "discontinued": "false"
      },
      {
         "productId": "12",
         "productName": "Queso Manchego La Pastora",
-        "unitPrice": "38.0000",
-        "unitsInStock": "86",
-        "categoryId": 4,
+        "unitPrice": 38.0000,
+        "unitsInStock": 86,
+        "categoryId": "4",
         "supplier": "Cooperativa de Quesos 'Las Cabras'",
         "discontinued": "false"
      },
      {
         "productId": "13",
         "productName": "Konbu",
-        "unitPrice": "6.0000",
-        "unitsInStock": "24",
-        "categoryId": 8,
+        "unitPrice": 6.0000,
+        "unitsInStock": 24,
+        "categoryId": "8",
         "supplier": "Mayumi's",
         "discontinued": "false"
      },
      {
         "productId": "14",
         "productName": "Tofu",
-        "unitPrice": "23.2500",
-        "unitsInStock": "35",
-        "categoryId": 7,
+        "unitPrice": 23.2500,
+        "unitsInStock": 35,
+        "categoryId": "7",
         "supplier": "Mayumi's",
         "discontinued": "false"
      },
      {
         "productId": "15",
         "productName": "Genen Shouyu",
-        "unitPrice": "15.5000",
-        "unitsInStock": "39",
-        "categoryId": 2,
+        "unitPrice": 15.5000,
+        "unitsInStock": 39,
+        "categoryId": "2",
         "supplier": "Mayumi's",
         "discontinued": "false"
      },
      {
         "productId": "16",
         "productName": "Pavlova",
-        "unitPrice": "17.4500",
-        "unitsInStock": "29",
-        "categoryId": 3,
+        "unitPrice": 17.4500,
+        "unitsInStock": 29,
+        "categoryId": "3",
         "supplier": "Pavlova, Ltd.",
         "discontinued": "false"
      },
      {
         "productId": "17",
         "productName": "Alice Mutton",
-        "unitPrice": "39.0000",
-        "unitsInStock": "0",
-        "categoryId": 6,
+        "unitPrice": 39.0000,
+        "unitsInStock": 0,
+        "categoryId": "6",
         "supplier": "Pavlova, Ltd.",
         "discontinued": "true"
      },
      {
         "productId": "18",
         "productName": "Carnarvon Tigers",
-        "unitPrice": "62.5000",
-        "unitsInStock": "42",
-        "categoryId": 8,
+        "unitPrice": 62.5000,
+        "unitsInStock": 42,
+        "categoryId": "8",
         "supplier": "Pavlova, Ltd.",
         "discontinued": "false"
      },
      {
         "productId": "19",
         "productName": "Teatime Chocolate Biscuits",
-        "unitPrice": "9.2000",
-        "unitsInStock": "25",
-        "categoryId": 3,
+        "unitPrice": 9.2000,
+        "unitsInStock": 25,
+        "categoryId": "3",
         "supplier": "Specialty Biscuits, Ltd.",
         "discontinued": "false"
      },
      {
         "productId": "20",
         "productName": "Sir Rodney's Marmalade",
-        "unitPrice": "81.0000",
-        "unitsInStock": "40",
-        "categoryId": 3,
+        "unitPrice": 81.0000,
+        "unitsInStock": 40,
+        "categoryId": "3",
         "supplier": "Specialty Biscuits, Ltd.",
         "discontinued": "false"
      },
      {
         "productId": "21",
         "productName": "Sir Rodney's Scones",
-        "unitPrice": "10.0000",
-        "unitsInStock": "3",
-        "categoryId": 3,
+        "unitPrice": 10.0000,
+        "unitsInStock": 3,
+        "categoryId": "3",
         "supplier": "Specialty Biscuits, Ltd.",
         "discontinued": "false"
      },
      {
         "productId": "22",
         "productName": "Gustaf's Knäckebröd",
-        "unitPrice": "21.0000",
-        "unitsInStock": "104",
-        "categoryId": 5,
+        "unitPrice": 21.0000,
+        "unitsInStock": 104,
+        "categoryId": "5",
         "supplier": "PB Knäckebröd AB",
         "discontinued": "false"
      },
      {
         "productId": "23",
         "productName": "Tunnbröd",
-        "unitPrice": "9.0000",
-        "unitsInStock": "61",
-        "categoryId": 5,
+        "unitPrice": 9.0000,
+        "unitsInStock": 61,
+        "categoryId": "5",
         "supplier": "PB Knäckebröd AB",
         "discontinued": "false"
      },
      {
         "productId": "24",
         "productName": "Guaraná Fantástica",
-        "unitPrice": "4.5000",
-        "unitsInStock": "20",
-        "categoryId": 1,
+        "unitPrice": 4.5000,
+        "unitsInStock": 20,
+        "categoryId": "1",
         "supplier": "Refrescos Americanas LTDA",
         "discontinued": "true"
      },
      {
         "productId": "25",
         "productName": "NuNuCa Nuß-Nougat-Creme",
-        "unitPrice": "14.0000",
-        "unitsInStock": "76",
-        "categoryId": 3,
+        "unitPrice": 14.0000,
+        "unitsInStock": 76,
+        "categoryId": "3",
         "supplier": "Heli Süßwaren GmbH & Co. KG",
         "discontinued": "false"
      },
      {
         "productId": "26",
         "productName": "Gumbär Gummibärchen",
-        "unitPrice": "31.2300",
-        "unitsInStock": "15",
-        "categoryId": 3,
+        "unitPrice": 31.2300,
+        "unitsInStock": 15,
+        "categoryId": "3",
         "supplier": "Heli Süßwaren GmbH & Co. KG",
         "discontinued": "false"
      },
      {
         "productId": "27",
         "productName": "Schoggi Schokolade",
-        "unitPrice": "43.9000",
-        "unitsInStock": "49",
-        "categoryId": 3,
+        "unitPrice": 43.9000,
+        "unitsInStock": 49,
+        "categoryId": "3",
         "supplier": "Heli Süßwaren GmbH & Co. KG",
         "discontinued": "false"
      },
      {
         "productId": "28",
         "productName": "Rössle Sauerkraut",
-        "unitPrice": "45.6000",
-        "unitsInStock": "26",
-        "categoryId": 7,
+        "unitPrice": 45.6000,
+        "unitsInStock": 26,
+        "categoryId": "7",
         "supplier": "Plutzer Lebensmittelgroßmärkte AG",
         "discontinued": "true"
      },
      {
         "productId": "29",
         "productName": "Thüringer Rostbratwurst",
-        "unitPrice": "123.7900",
-        "unitsInStock": "0",
-        "categoryId": 6,
+        "unitPrice": 123.7900,
+        "unitsInStock": 0,
+        "categoryId": "6",
         "supplier": "Plutzer Lebensmittelgroßmärkte AG",
         "discontinued": "true"
      },
      {
         "productId": "30",
         "productName": "Nord-Ost Matjeshering",
-        "unitPrice": "25.8900",
-        "unitsInStock": "10",
-        "categoryId": 8,
+        "unitPrice": 25.8900,
+        "unitsInStock": 10,
+        "categoryId": "8",
         "supplier": "Nord-Ost-Fisch Handelsgesellschaft mbH",
         "discontinued": "false"
      },
      {
         "productId": "31",
         "productName": "Gorgonzola Telino",
-        "unitPrice": "12.5000",
-        "unitsInStock": "0",
-         "categoryId": 4,
+        "unitPrice": 12.5000,
+        "unitsInStock": 0,
+         "categoryId": "4",
         "supplier": "Formaggi Fortini s.r.l.",
         "discontinued": "false"
      },
      {
         "productId": "32",
         "productName": "Mascarpone Fabioli",
-        "unitPrice": "32.0000",
-        "unitsInStock": "9",
-        "categoryId": 4,
+        "unitPrice": 32.0000,
+        "unitsInStock": 9,
+        "categoryId": "4",
         "supplier": "Formaggi Fortini s.r.l.",
         "discontinued": "false"
      },
      {
         "productId": "33",
         "productName": "Geitost",
-        "unitPrice": "2.5000",
-        "unitsInStock": "112",
-        "categoryId": 4,
+        "unitPrice": 2.5000,
+        "unitsInStock": 112,
+        "categoryId": "4",
         "supplier": "Norske Meierier",
         "discontinued": "false"
      },
      {
         "productId": "34",
         "productName": "Sasquatch Ale",
-        "unitPrice": "14.0000",
-        "unitsInStock": "111",
-        "categoryId": 1,
+        "unitPrice": 14.0000,
+        "unitsInStock": 111,
+        "categoryId": "1",
         "supplier": "Bigfoot Breweries",
         "discontinued": "false"
      },
      {
         "productId": "35",
         "productName": "Steeleye Stout",
-        "unitPrice": "18.0000",
-        "unitsInStock": "20",
-        "categoryId": 1,
+        "unitPrice": 18.0000,
+        "unitsInStock": 20,
+        "categoryId": "1",
         "supplier": "Bigfoot Breweries",
         "discontinued": "false"
      },
      {
         "productId": "36",
         "productName": "Inlagd Sill",
-        "unitPrice": "19.0000",
-        "unitsInStock": "112",
-        "categoryId": 8,
+        "unitPrice": 19.0000,
+        "unitsInStock": 112,
+        "categoryId": "8",
         "supplier": "Svensk Sjöföda AB",
         "discontinued": "false"
      },
      {
         "productId": "37",
         "productName": "Gravad lax",
-        "unitPrice": "26.0000",
-        "unitsInStock": "11",
-        "categoryId": 8,
+        "unitPrice": 26.0000,
+        "unitsInStock": 11,
+        "categoryId": "8",
         "supplier": "Svensk Sjöföda AB",
         "discontinued": "false"
      },
      {
         "productId": "38",
         "productName": "Côte de Blaye",
-        "unitPrice": "263.5000",
-        "unitsInStock": "17",
-        "categoryId": 1,
+        "unitPrice": 263.5000,
+        "unitsInStock": 17,
+        "categoryId": "1",
         "supplier": "Aux joyeux ecclésiastiques",
         "discontinued": "false"
      },
      {
         "productId": "39",
         "productName": "Chartreuse verte",
-        "unitPrice": "18.0000",
-        "unitsInStock": "69",
-        "categoryId": 1,
+        "unitPrice": 18.0000,
+        "unitsInStock": 69,
+        "categoryId": "1",
         "supplier": "Aux joyeux ecclésiastiques",
         "discontinued": "false"
      },
      {
         "productId": "40",
         "productName": "Boston Crab Meat",
-        "unitPrice": "18.4000",
-        "unitsInStock": "123",
-        "categoryId": 8,
+        "unitPrice": 18.4000,
+        "unitsInStock": 123,
+        "categoryId": "8",
         "supplier": "New England Seafood Cannery",
         "discontinued": "false"
      },
      {
         "productId": "41",
         "productName": "Jack's New England Clam Chowder",
-        "unitPrice": "9.6500",
-        "unitsInStock": "85",
-        "categoryId": 8,
+        "unitPrice": 9.6500,
+        "unitsInStock": 85,
+        "categoryId": "8",
         "supplier": "New England Seafood Cannery",
         "discontinued": "false"
      },
      {
         "productId": "42",
         "productName": "Singaporean Hokkien Fried Mee",
-        "unitPrice": "14.0000",
-        "unitsInStock": "26",
-        "categoryId": 5,
+        "unitPrice": 14.0000,
+        "unitsInStock": 26,
+        "categoryId": "5",
         "supplier": "Leka Trading",
         "discontinued": "true"
      },
      {
         "productId": "43",
         "productName": "Ipoh Coffee",
-        "unitPrice": "46.0000",
-        "unitsInStock": "17",
-        "categoryId": 1,
+        "unitPrice": 46.0000,
+        "unitsInStock": 17,
+        "categoryId": "1",
         "supplier": "Leka Trading",
         "discontinued": "false"
      },
      {
         "productId": "44",
         "productName": "Gula Malacca",
-        "unitPrice": "19.4500",
-        "unitsInStock": "27",
-        "categoryId": 2,
+        "unitPrice": 19.4500,
+        "unitsInStock": 27,
+        "categoryId": "2",
         "supplier": "Leka Trading",
         "discontinued": "false"
      },
      {
         "productId": "45",
         "productName": "Rogede sild",
-        "unitPrice": "9.5000",
-        "unitsInStock": "5",
-        "categoryId": 8,
+        "unitPrice": 9.5000,
+        "unitsInStock": 5,
+        "categoryId": "8",
         "supplier": "Lyngbysild",
         "discontinued": "false"
      },
      {
         "productId": "46",
         "productName": "Spegesild",
-        "unitPrice": "12.0000",
-        "unitsInStock": "95",
-        "categoryId": 8,
+        "unitPrice": 12.0000,
+        "unitsInStock": 95,
+        "categoryId": "8",
         "supplier": "Lyngbysild",
         "discontinued": "false"
      },
      {
         "productId": "47",
         "productName": "Zaanse koeken",
-        "unitPrice": "9.5000",
-        "unitsInStock": "36",
-        "categoryId": 3,
+        "unitPrice": 9.5000,
+        "unitsInStock": 36,
+        "categoryId": "3",
         "supplier": "Zaanse Snoepfabriek",
         "discontinued": "false"
      },
      {
         "productId": "48",
         "productName": "Chocolade",
-        "unitPrice": "12.7500",
-        "unitsInStock": "15",
-        "categoryId": 3,
+        "unitPrice": 12.7500,
+        "unitsInStock": 15,
+        "categoryId": "3",
         "supplier": "Zaanse Snoepfabriek",
         "discontinued": "false"
      },
      {
         "productId": "49",
         "productName": "Maxilaku",
-        "unitPrice": "20.0000",
-        "unitsInStock": "10",
-        "categoryId": 3,
+        "unitPrice": 20.0000,
+        "unitsInStock": 10,
+        "categoryId": "3",
         "supplier": "Karkki Oy",
         "discontinued": "false"
      },
      {
         "productId": "50",
         "productName": "Valkoinen suklaa",
-        "unitPrice": "16.2500",
-        "unitsInStock": "65",
-        "categoryId": 3,
+        "unitPrice": 16.2500,
+        "unitsInStock": 65,
+        "categoryId": "3",
         "supplier": "Karkki Oy",
         "discontinued": "false"
      },
      {
         "productId": "51",
         "productName": "Manjimup Dried Apples",
-        "unitPrice": "53.0000",
-        "unitsInStock": "20",
-         "categoryId": 7,
+        "unitPrice": 53.0000,
+        "unitsInStock": 20,
+         "categoryId": "7",
         "supplier": "G'day, Mate",
         "discontinued": "false"
      },
      {
         "productId": "52",
         "productName": "Filo Mix",
-        "unitPrice": "7.0000",
-        "unitsInStock": "38",
-        "categoryId": 5,
+        "unitPrice": 7.0000,
+        "unitsInStock": 38,
+        "categoryId": "5",
         "supplier": "G'day, Mate",
         "discontinued": "false"
      },
      {
         "productId": "53",
         "productName": "Perth Pasties",
-        "unitPrice": "32.8000",
-        "unitsInStock": "0",
+        "unitPrice": 32.8000,
+        "unitsInStock": 0,
         "categoryId": "6",
         "supplier": "G'day, Mate",
         "discontinued": "true"
@@ -479,8 +479,8 @@
      {
         "productId": "54",
         "productName": "Tourtière",
-        "unitPrice": "7.4500",
-        "unitsInStock": "21",
+        "unitPrice": 7.4500,
+        "unitsInStock": 21,
         "categoryId": "6",
         "supplier": "Ma Maison",
         "discontinued": "false"
@@ -488,8 +488,8 @@
      {
         "productId": "55",
         "productName": "Pâté chinois",
-        "unitPrice": "24.0000",
-        "unitsInStock": "115",
+        "unitPrice": 24.0000,
+        "unitsInStock": 115,
         "categoryId": "6",
         "supplier": "Ma Maison",
         "discontinued": "false"
@@ -497,8 +497,8 @@
      {
         "productId": "56",
         "productName": "Gnocchi di nonna Alice",
-        "unitPrice": "38.0000",
-        "unitsInStock": "21",
+        "unitPrice": 38.0000,
+        "unitsInStock": 21,
         "categoryId": "5",
         "supplier": "Pasta Buttini s.r.l.",
         "discontinued": "false"
@@ -506,8 +506,8 @@
      {
         "productId": "57",
         "productName": "Ravioli Angelo",
-        "unitPrice": "19.5000",
-        "unitsInStock": "36",
+        "unitPrice": 19.5000,
+        "unitsInStock": 36,
         "categoryId": "5",
         "supplier": "Pasta Buttini s.r.l.",
         "discontinued": "false"
@@ -515,8 +515,8 @@
      {
         "productId": "58",
         "productName": "Escargots de Bourgogne",
-        "unitPrice": "13.2500",
-        "unitsInStock": "62",
+        "unitPrice": 13.2500,
+        "unitsInStock": 62,
         "categoryId": "8",
         "supplier": "Escargots Nouveaux",
         "discontinued": "false"
@@ -524,8 +524,8 @@
      {
         "productId": "59",
         "productName": "Raclette Courdavault",
-        "unitPrice": "55.0000",
-        "unitsInStock": "79",
+        "unitPrice": 55.0000,
+        "unitsInStock": 79,
          "categoryId": "4",
         "supplier": "Gai pâturage",
         "discontinued": "false"
@@ -533,8 +533,8 @@
      {
         "productId": "60",
         "productName": "Camembert Pierrot",
-        "unitPrice": "34.0000",
-        "unitsInStock": "19",
+        "unitPrice": 34.0000,
+        "unitsInStock": 19,
          "categoryId": "4",
         "supplier": "Gai pâturage",
         "discontinued": "false"
@@ -542,8 +542,8 @@
      {
         "productId": "61",
         "productName": "Sirop d'érable",
-        "unitPrice": "28.5000",
-        "unitsInStock": "113",
+        "unitPrice": 28.5000,
+        "unitsInStock": 113,
         "categoryId": "2",
         "supplier": "Forêts d'érables",
         "discontinued": "false"
@@ -551,8 +551,8 @@
      {
         "productId": "62",
         "productName": "Tarte au sucre",
-        "unitPrice": "49.3000",
-        "unitsInStock": "17",
+        "unitPrice": 49.3000,
+        "unitsInStock": 17,
         "categoryId": "3",
         "supplier": "Forêts d'érables",
         "discontinued": "false"
@@ -560,8 +560,8 @@
      {
         "productId": "63",
         "productName": "Vegie-spread",
-        "unitPrice": "43.9000",
-        "unitsInStock": "24",
+        "unitPrice": 43.9000,
+        "unitsInStock": 24,
         "categoryId": "2",
         "supplier": "Pavlova, Ltd.",
         "discontinued": "false"
@@ -569,8 +569,8 @@
      {
         "productId": "64",
         "productName": "Wimmers gute Semmelknödel",
-        "unitPrice": "33.2500",
-        "unitsInStock": "22",
+        "unitPrice": 33.2500,
+        "unitsInStock": 22,
         "categoryId": "5",
         "supplier": "Plutzer Lebensmittelgroßmärkte AG",
         "discontinued": "false"
@@ -578,8 +578,8 @@
      {
         "productId": "65",
         "productName": "Louisiana Fiery Hot Pepper Sauce",
-        "unitPrice": "21.0500",
-        "unitsInStock": "76",
+        "unitPrice": 21.0500,
+        "unitsInStock": 76,
         "categoryId": "2",
         "supplier": "New Orleans Cajun Delights",
         "discontinued": "false"
@@ -587,8 +587,8 @@
      {
         "productId": "66",
         "productName": "Louisiana Hot Spiced Okra",
-        "unitPrice": "17.0000",
-        "unitsInStock": "4",
+        "unitPrice": 17.0000,
+        "unitsInStock": 4,
         "categoryId": "2",
         "supplier": "New Orleans Cajun Delights",
         "discontinued": "false"
@@ -596,8 +596,8 @@
      {
         "productId": "67",
         "productName": "Laughing Lumberjack Lager",
-        "unitPrice": "14.0000",
-        "unitsInStock": "52",
+        "unitPrice": 14.0000,
+        "unitsInStock": 52,
         "categoryId": "1",
         "supplier": "Bigfoot Breweries",
         "discontinued": "false"
@@ -605,8 +605,8 @@
      {
         "productId": "68",
         "productName": "Scottish Longbreads",
-        "unitPrice": "12.5000",
-        "unitsInStock": "6",
+        "unitPrice": 12.5000,
+        "unitsInStock": 6,
         "categoryId": "3",
         "supplier": "Specialty Biscuits, Ltd.",
         "discontinued": "false"
@@ -614,8 +614,8 @@
      {
         "productId": "69",
         "productName": "Gudbrandsdalsost",
-        "unitPrice": "36.0000",
-        "unitsInStock": "26",
+        "unitPrice": 36.0000,
+        "unitsInStock": 26,
          "categoryId": "4",
         "supplier": "Norske Meierier",
         "discontinued": "false"
@@ -623,8 +623,8 @@
      {
         "productId": "70",
         "productName": "Outback Lager",
-        "unitPrice": "15.0000",
-        "unitsInStock": "15",
+        "unitPrice": 15.0000,
+        "unitsInStock": 15,
         "categoryId": "1",
         "supplier": "Pavlova, Ltd.",
         "discontinued": "false"
@@ -632,8 +632,8 @@
      {
         "productId": "71",
         "productName": "Flotemysost",
-        "unitPrice": "21.5000",
-        "unitsInStock": "26",
+        "unitPrice": 21.5000,
+        "unitsInStock": 26,
          "categoryId": "4",
         "supplier": "Norske Meierier",
         "discontinued": "false"
@@ -641,8 +641,8 @@
      {
         "productId": "72",
         "productName": "Mozzarella di Giovanni",
-        "unitPrice": "34.8000",
-        "unitsInStock": "14",
+        "unitPrice": 34.8000,
+        "unitsInStock": 14,
          "categoryId": "4",
         "supplier": "Formaggi Fortini s.r.l.",
         "discontinued": "false"
@@ -650,8 +650,8 @@
      {
         "productId": "73",
         "productName": "Röd Kaviar",
-        "unitPrice": "15.0000",
-        "unitsInStock": "101",
+        "unitPrice": 15.0000,
+        "unitsInStock": 101,
         "categoryId": "8",
         "supplier": "Svensk Sjöföda AB",
         "discontinued": "false"
@@ -659,8 +659,8 @@
      {
         "productId": "74",
         "productName": "Longlife Tofu",
-        "unitPrice": "10.0000",
-        "unitsInStock": "4",
+        "unitPrice": 10.0000,
+        "unitsInStock": 4,
          "categoryId": "7",
         "supplier": "Tokyo Traders",
         "discontinued": "false"
@@ -668,8 +668,8 @@
      {
         "productId": "75",
         "productName": "Rhönbräu Klosterbier",
-        "unitPrice": "7.7500",
-        "unitsInStock": "125",
+        "unitPrice": 7.7500,
+        "unitsInStock": 125,
         "categoryId": "1",
         "supplier": "Plutzer Lebensmittelgroßmärkte AG",
         "discontinued": "false"
@@ -677,8 +677,8 @@
      {
         "productId": "76",
         "productName": "Lakkalikööri",
-        "unitPrice": "18.0000",
-        "unitsInStock": "57",
+        "unitPrice": 18.0000,
+        "unitsInStock": 57,
         "categoryId": "1",
         "supplier": "Karkki Oy",
         "discontinued": "false"
@@ -686,8 +686,8 @@
      {
         "productId": "77",
         "productName": "Original Frankfurter grüne Soße",
-        "unitPrice": "13.0000",
-        "unitsInStock": "32",
+        "unitPrice": 13.0000,
+        "unitsInStock": 32,
         "categoryId": "2",
         "supplier": "Plutzer Lebensmittelgroßmärkte AG",
         "discontinued": "false"
